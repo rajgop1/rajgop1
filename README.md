@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rajgopaljakhmola@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1dLAXqyKEvVZbw8q0Cw55t7JMbU9KSDqP/view?usp=sharing](https://drive.google.com/file/d/1dLAXqyKEvVZbw8q0Cw55t7JMbU9KSDqP/view?usp=sharing)
+- 📄 Know about my experiences [My resume](https://drive.google.com/file/d/1mtcA8afix1UYtKPKl46hx5b6B-QCWyL3/view?usp=sharing)
 
 - ⚡ Fun fact **Love to Play Musical Instruments**
 
