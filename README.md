@@ -3,15 +3,13 @@
 
 - 🔭 I’m currently working on [Binary Search Tree Animation](https://github.com/rajgop1/BST-Animation.git)
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Three JS**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 🤝 I’m looking for help with [Binary Search Tree Animation](Binary Search Tree Animation)
-
 - 📫 How to reach me **rajgopaljakhmola@gmail.com**
 
-- 📄 Know about my experiences [My resume](https://drive.google.com/file/d/1mtcA8afix1UYtKPKl46hx5b6B-QCWyL3/view?usp=sharing)
+- 📄 Know about my experiences [My resume](https://drive.google.com/file/d/1Sm08RGIKQZrC-Ryqwyb-B_H9D7s_fgAc/view?usp=sharing)
 
 - ⚡ Fun fact **Love to Play Musical Instruments**
 
